@@ -38,3 +38,6 @@ dist/*
 
 # Vercel
 .vercel
+
+# Makefile
+config.mk
